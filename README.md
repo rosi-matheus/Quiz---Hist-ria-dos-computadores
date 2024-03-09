@@ -1,1 +1,1 @@
-# Quiz---Hist-ria-dos-computadores
+# Quiz-Historia-dos-computadores
